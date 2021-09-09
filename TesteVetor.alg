@@ -11,5 +11,8 @@ var
        Escreva("Digite o ",C, "o. valor: ")
        Leia(V[C])
   FimPara
+  Para C <- 1 ate 6 faca
+       Escreva("{",V[C], " }")
+  FimPara
 // Seção de Comandos
 fimalgoritmo
